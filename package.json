@@ -1,0 +1,25 @@
+{
+  "name": "lambda-phantomjs-intaller",
+  "version": "0.0.1",
+  "description": "Installs phantomjs executable onto phantomjs, so that you don't have to bundle it with your code",
+  "main": "phantomjs_installer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoubleDor/lambda-phantomjs-installer.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "aws",
+    "lambda",
+    "nodejs"
+  ],
+  "author": "Mike Lyons <mdl0394@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoubleDor/lambda-phantomjs-installer/issues"
+  },
+  "homepage": "https://github.com/DoubleDor/lambda-phantomjs-installer#readme"
+}
