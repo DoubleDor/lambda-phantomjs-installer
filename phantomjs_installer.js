@@ -197,7 +197,7 @@ var Installer = function( options ) {
 
                 // If we have already installed it, we can returned the cached version
                 if( fs.existsSync( full_installed_exe_path ) ) {
-                    return resolve( install_dir + exe_name );
+                    return resolve( full_installed_exe_path );
                 }
 
                 _this._downloadAndExtract()

@@ -1,6 +1,6 @@
 {
   "name": "lambda-phantomjs-installer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Installs phantomjs executable onto phantomjs, so that you don't have to bundle it with your code",
   "main": "phantomjs_installer.js",
   "scripts": {
